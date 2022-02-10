@@ -14,7 +14,7 @@
 
 ## 💻 Sobre o projeto
 
-O intuito desse projeto foi criar um website da loja fictícia Gatito Store, utilizando HTML, CSS e SASS, reforçando os conhecimentos da linguagem SASS. Esse projeto faz parte do curso de SASS: O CSS com superpoderes [Alura](https://www.alura.com.br/).
+O intuito desse projeto foi criar um website da loja fictícia Casa Verde, utilizando HTML e CSS, reforçando os conhecimentos da linguagem Style Guides e montar páginas com componentes. Esse projeto faz parte do curso de SASS: O CSS com superpoderes [Alura](https://www.alura.com.br/).
 
 ---
 
@@ -23,7 +23,7 @@ O intuito desse projeto foi criar um website da loja fictícia Gatito Store, uti
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [SASS](https://sass-lang.com/)
+[Git](https://git-scm.com).
 Além disso, sugiro utilizar o editor [VSCode](https://code.visualstudio.com/) para trabalhar no código com a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) instalada.
 
 #### 🧭 Rodando a aplicação web (Front-End)
@@ -31,16 +31,13 @@ Além disso, sugiro utilizar o editor [VSCode](https://code.visualstudio.com/) p
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/maria-luiza-rodrigues-ti/less-alura
+$ git clone https://github.com/maria-luiza-rodrigues-ti/style-guide-alura
 
 # Vá para a pasta da aplicação Front-End
-$ cd less-alura
+$ cd style-guide-alura
 
 # Abra o código no VS Code
 $ code .
-
-# Compile os arquivos em LESS utilizando o comando:
-$ sass *nome-do-arquivo.scss/nome-do-arquivo.sass*:*nome-do-arquivo.css*
 
 # Clique no botão Go Live na barra inferior do VS Code, no canto direito
 
@@ -52,11 +49,10 @@ $ sass *nome-do-arquivo.scss/nome-do-arquivo.sass*:*nome-do-arquivo.css*
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([SASS](https://sass-lang.com/))
+#### **Website**  ([HTML e CSS](https://developer.mozilla.org/))
 
 -   **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**
 -   **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
--   **[SASS](https://sass-lang.com/)**
 
 ## 🦸 Autor
 
