@@ -7,7 +7,7 @@
 .item {
     display: flex;
     align-items: center;
-    
+
     width: 15rem;
 
     margin-bottom: 1rem;
@@ -35,7 +35,7 @@
 }
 
 .item__icone--carrinho {
-    background-image: url(../../img/icones/carrinho.svg);
+    background-image: url(../../img/icones/cart.svg);
 }
 
 .item__icone--caminhao {

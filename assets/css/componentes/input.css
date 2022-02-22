@@ -5,15 +5,18 @@
 
     width: 100%;
 
-    padding: 1.75rem;
+    padding-top: 1.75rem;
+    padding-right: 1.75rem;
+    padding-bottom: 1.75rem;
+    padding-left: 1.75rem;
 
     box-sizing: border-box;
 
     margin-bottom: 1rem;
 
-    border: none;
-
     background-color: var(--branco);
+
+    border: none;
 
     box-shadow: 10px 10px 30px var(--preto-transparente);
 }
@@ -26,5 +29,5 @@
 }
 
 .input--email {
-    background-image: url('../../img/icones/mail.svg');
+    background-image: url(../../img/icones/mail.svg);
 }
