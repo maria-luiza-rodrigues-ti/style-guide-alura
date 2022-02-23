@@ -41,6 +41,8 @@
 
 .produto__preco {
     margin-bottom: 1.5rem;
+    
+    font-weight: 600;
 }
 
 .produto__comprar {

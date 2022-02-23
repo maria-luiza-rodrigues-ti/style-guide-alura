@@ -1,0 +1,20 @@
+.chamada-produto {
+    padding-top: 2.5rem;
+
+    height: 38.125rem;
+}
+
+.chamada-produto__imagem {
+    position: relative;
+    top: -5rem;
+    right: 1rem;
+}
+
+.chamada-produto__botoes {
+    position: relative;
+    top: -7.25rem;
+}
+
+.chamada-produto__botao {
+    margin-bottom: 1.0625rem;
+}
